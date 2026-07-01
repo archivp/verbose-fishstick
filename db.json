@@ -1,0 +1,509 @@
+{
+  "games": [
+    {
+      "title": "Overlord: Raising Hell",
+      "points": 12,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Metal Gear Rising «Normal»",
+      "points": 7,
+      "description": "Пройти игру с условием/сложностью: Normal"
+    },
+    {
+      "title": "Resident Evil 2 «Hardcore»",
+      "points": 9,
+      "description": "Пройти игру с условием/сложностью: Hardcore"
+    },
+    {
+      "title": "Control",
+      "points": 12,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Risk of Rain 2 «Муссон/Митрикс»",
+      "points": 20,
+      "description": "Победить Митрикса на сложности Муссон"
+    },
+    {
+      "title": "Enter the Gungeon «Лич»",
+      "points": 25,
+      "description": "Победить Лича"
+    },
+    {
+      "title": "Amnesia: The Dark Descent",
+      "points": 8,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Dead Space «Тяжёлый»",
+      "points": 12,
+      "description": "Пройти игру с условием/сложностью: Тяжёлый"
+    },
+    {
+      "title": "Metafor ReFantazio «Hard»",
+      "points": 70,
+      "description": "Пройти игру с условием/сложностью: Hard"
+    },
+    {
+      "title": "Hollow Knight «Грёз больше нет/Путь боли/Боссы грёз»",
+      "points": 55,
+      "description": "Пройти игру на концовку «Грёз больше нет», пройти Путь боли и победить боссов грёз"
+    },
+    {
+      "title": "CupHead + DLC",
+      "points": 20,
+      "description": "Пройти игру и DLC"
+    },
+    {
+      "title": "Outlast «Высокая»",
+      "points": 6,
+      "description": "Пройти игру с условием/сложностью: Высокая"
+    },
+    {
+      "title": "Celeste",
+      "points": 10,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Half Life «Высокий»",
+      "points": 12,
+      "description": "Пройти игру с условием/сложностью: Высокий"
+    },
+    {
+      "title": "bayonetta",
+      "points": 12,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Dragon Age: Origins «Сложная»",
+      "points": 45,
+      "description": "Пройти игру с условием/сложностью: Сложная"
+    },
+    {
+      "title": "Ben and Ed",
+      "points": 6,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "ULTRAKILL",
+      "points": 8,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Cry of fear",
+      "points": 8,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Darksiders 3  «Судный день»",
+      "points": 18,
+      "description": "Пройти игру с условием/сложностью: Судный день"
+    },
+    {
+      "title": "DMC 5 «Сын Спарды»",
+      "points": 13,
+      "description": "Пройти игру с условием/сложностью: Сын Спарды"
+    },
+    {
+      "title": "Assassinas 1 (100% на заданиях)",
+      "points": 20,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Potion Craft: Alchemist Simulator «Грандмастер»",
+      "points": 25,
+      "description": "Пройти игру с условием/сложностью: Грандмастер"
+    },
+    {
+      "title": "Batman: Arkham Asylum",
+      "points": 18,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Machinarium",
+      "points": 6,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Freddi Fish 5: The Case of the Creature of Coral Cove",
+      "points": 2,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Вангеры",
+      "points": 20,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "I Wanna Be The Boshy",
+      "points": 30,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Changed",
+      "points": 5,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Metel - Horror Escape",
+      "points": 3,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Петька и Василий Иванович Спасают Галактику. Перезагрузка",
+      "points": 6,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Portal 2",
+      "points": 8,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Hades «Адский режим»",
+      "points": 25,
+      "description": "Пройти игру с условием/сложностью: Адский режим"
+    },
+    {
+      "title": "Dead Cells «Король»",
+      "points": 25,
+      "description": "Победить Десницу Короля/Короля"
+    },
+    {
+      "title": "Hornyline Miami 2",
+      "points": 8,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Ghostrunner",
+      "points": 7,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Super Meat Boy",
+      "points": 12,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Battletoads",
+      "points": 5,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Just Cause 3",
+      "points": 18,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Only up",
+      "points": 4,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Getting Over It with Bennett Foddy",
+      "points": 6,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Visage",
+      "points": 8,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Fear and Hunger",
+      "points": 15,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Dark Souls 2: Scholar of the First Sin «Без DLC»",
+      "points": 45,
+      "description": "Пройти игру с условием/сложностью: Без DLC"
+    },
+    {
+      "title": "Шрек 2",
+      "points": 5,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Мадагаскар",
+      "points": 5,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Ледниковый период",
+      "points": 5,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Антошка: Веселые книжки",
+      "points": 2,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Geometry dash «Clubstep»",
+      "points": 10,
+      "description": "Пройти все уровни до Clubstep включительно"
+    },
+    {
+      "title": "Sifu «Master»",
+      "points": 15,
+      "description": "Пройти игру с условием/сложностью: Master"
+    },
+    {
+      "title": "Minecraft «Hardcore»",
+      "points": 30,
+      "description": "Пройти игру с условием/сложностью: Hardcore"
+    },
+    {
+      "title": "Katana Zero",
+      "points": 5,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Witcher «Тяжёлый»",
+      "points": 35,
+      "description": "Пройти игру с условием/сложностью: Тяжёлый"
+    },
+    {
+      "title": "Nier: Automata «Тяжёлый/Концовки A,B,C»",
+      "points": 35,
+      "description": "Пройти игру с условием/сложностью: Тяжёлый/Концовки A,B,C"
+    },
+    {
+      "title": "Chants of Sennaar",
+      "points": 9,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Stellaris «Вся галактика/Командор»",
+      "points": 80,
+      "description": "Захватить всю галактику на сложности Командор"
+    },
+    {
+      "title": "Thronebreaker: The Witcher Tales «Bonebreaker»",
+      "points": 35,
+      "description": "Пройти игру с условием/сложностью: Bonebreaker"
+    },
+    {
+      "title": "The Messenger",
+      "points": 12,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Prince of Persia: The Sands of Time",
+      "points": 9,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "XCOM2 «Легенда»",
+      "points": 40,
+      "description": "Пройти игру с условием/сложностью: Легенда"
+    },
+    {
+      "title": "God of War (2018) «Дайте мне Бога Войны/Все валькирии»",
+      "points": 45,
+      "description": "Пройти на «Дайте мне Бога Войны» и победить всех валькирий"
+    },
+    {
+      "title": "Donkey Kong N64",
+      "points": 10,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Nuclear Throne",
+      "points": 15,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Slay the spire «Убить сердце»",
+      "points": 30,
+      "description": "Убить сердце"
+    },
+    {
+      "title": "Sonic Adventure DX",
+      "points": 10,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Diablo 2 «Nightmare»",
+      "points": 40,
+      "description": "Пройти игру с условием/сложностью: Nightmare"
+    },
+    {
+      "title": "The Evil Within «Обычный»",
+      "points": 15,
+      "description": "Пройти игру с условием/сложностью: Обычный"
+    },
+    {
+      "title": "Dishonored «Высокий»",
+      "points": 15,
+      "description": "Пройти игру с условием/сложностью: Высокий"
+    },
+    {
+      "title": "Grand Theft Auto: Vice city",
+      "points": 18,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "BioShock Infinity «Сложный»",
+      "points": 12,
+      "description": "Пройти игру с условием/сложностью: Сложный"
+    },
+    {
+      "title": "Mafia 2 defender dexp edition",
+      "points": 12,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Mirror's Edge Catalyst",
+      "points": 8,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "MAD MAX",
+      "points": 20,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Crysis 3 «Суперсолдат»",
+      "points": 8,
+      "description": "Пройти игру с условием/сложностью: Суперсолдат"
+    },
+    {
+      "title": "Thief (2014) «Высокий»",
+      "points": 15,
+      "description": "Пройти игру с условием/сложностью: Высокий"
+    },
+    {
+      "title": "Spider-Man: Web of Shadows",
+      "points": 10,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Papers, Please «Хорошие концовки»",
+      "points": 8,
+      "description": "Получить одну из хороших концовок"
+    },
+    {
+      "title": "Sniper: Ghost Warrior",
+      "points": 7,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Sniper elite 3",
+      "points": 12,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: The Video Game",
+      "points": 5,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Hello Neighbor",
+      "points": 5,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Rabbids Go Home",
+      "points": 8,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Far cry 3 «Тяжелый»",
+      "points": 18,
+      "description": "Пройти игру с условием/сложностью: Тяжелый"
+    },
+    {
+      "title": "Max Payne 3 «Хардкор»",
+      "points": 12,
+      "description": "Пройти игру с условием/сложностью: Хардкор"
+    },
+    {
+      "title": "Sonic Mania",
+      "points": 6,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "The Matchless Kungfu",
+      "points": 30,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Prototype",
+      "points": 12,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Deus Ex: Human Revolution - Director's Cut «Hard»",
+      "points": 25,
+      "description": "Пройти игру с условием/сложностью: Hard"
+    },
+    {
+      "title": "Songs of Conquest «Рискованно»",
+      "points": 25,
+      "description": "Пройти игру с условием/сложностью: Рискованно"
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the wild «Все звери»",
+      "points": 50,
+      "description": "Освободить всех священных зверей и пройти игру"
+    },
+    {
+      "title": "Disney Pixar Cars",
+      "points": 6,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Darkest Dungeon «Тьма»",
+      "points": 80,
+      "description": "Пройти на сложности «Тьма», без DLC Crimson Court"
+    },
+    {
+      "title": "Against the Storm",
+      "points": 40,
+      "description": "Пройти игру, восстановив 4 руны"
+    },
+    {
+      "title": "Doom 3 «Veteran»",
+      "points": 12,
+      "description": "Пройти игру с условием/сложностью: Veteran"
+    },
+    {
+      "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+      "points": 6,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "points": 35,
+      "description": "Пройти Акт III на сложности «Вызов»"
+    },
+    {
+      "title": "System Shock Remake",
+      "points": 20,
+      "description": "Пройти игру на уровнях сложности 2"
+    },
+    {
+      "title": "Kung Fu Panda",
+      "points": 6,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Grim Dawn",
+      "points": 35,
+      "description": "Пройти игру"
+    },
+    {
+      "title": "Spider-Man Shattered Dimensions «Высокий»",
+      "points": 10,
+      "description": "Пройти игру с условием/сложностью: Высокий"
+    },
+    {
+      "title": "Swords and Souls: Neverseen",
+      "points": 15,
+      "description": "Пройти игру"
+    }
+  ]
+}
